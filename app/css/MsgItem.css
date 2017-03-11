@@ -1,0 +1,21 @@
+.MsgItem{
+  height: 35px;
+  width: 100%;
+  margin-top: 15px;
+}
+.MsgItem-con{
+  height: 19px;
+  border-radius: 8px;
+  line-height: 19px;
+  padding: 8px 10px 8px 10px;
+}
+.right{
+  float: right;
+  background-color: #25a8de;
+  color: #fff;
+}
+.left{
+  float: left;
+  background-color: #eee;
+  color: #111;
+}
